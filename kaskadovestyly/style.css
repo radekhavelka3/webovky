@@ -1,0 +1,47 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color:gray;
+    text-align:left;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2{
+    color:gold;
+    text-align: left;
+}
+
+h3{
+    color:brown;
+    text-align: left;
+}
+
+h4{
+    color:rosybrown;
+    text-align: left;
+}
+
+h5{
+    color:yellowgreen;
+    text-align: left;
+}
+
+h6{
+    color:red;
+    text-align: left;
+}
+
+p{
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+}
+
+small{
+    color:tomato;
+    text-align: left;
+    font-size: larger;
+}
