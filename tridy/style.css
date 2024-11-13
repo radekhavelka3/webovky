@@ -1,0 +1,27 @@
+body{
+    background-image: url("obrazek.jpg");
+    background-size: cover;
+}
+
+.title-h1{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.odrazky{
+    color:gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    list-style-type: circle;
+}
+
+.odrazky2{
+    color:aqua;
+    font-family: Verdana;
+    font-size: larger;
+}
+
+.rimska{
+    list-style-type: upper-roman;
+}
